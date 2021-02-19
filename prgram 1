@@ -1,0 +1,9 @@
+
+#include<stdio.h>
+int main() {
+   int a = 10;
+   printf("Hello world! \n");
+   printf("The value of a : %d",a);
+   getchar();
+   return 0;
+}
